@@ -1,6 +1,17 @@
+"""
+Author: Chukwunazaekpere Emmanuel Obioma
+Written for: DSS Project
+Nationality: Biafran
+Email-1: chukwunazaekpere.obioma@ue-germany.de 
+Email-2: ceo.naza.tech@gmail.com
+************************************************
+Course: Software Optimisation
+Written: July 12th 2024
+Due: July 13th 2024
+========================== Major Problem ==========================
 
-from numpy import ones,vstack
-from numpy.linalg import lstsq
+"""
+
 from datetime import datetime
 import logging
 import json
