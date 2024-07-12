@@ -1,0 +1,1 @@
+('Recommended developer size: 2 to 7', 'Estimated duration: 2 to 9', 'Expected complexity: 13 to 18')
